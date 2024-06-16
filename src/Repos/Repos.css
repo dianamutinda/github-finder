@@ -1,0 +1,22 @@
+.right-side {
+  float: right;
+  margin-right: 50px;
+  margin-top: -32rem;
+}
+.repos {
+  display: flex;
+  gap: 20px;
+}
+.title {
+}
+.container {
+  background-color: rgb(212, 211, 208);
+  width: 25rem;
+}
+.bottom {
+  display: flex;
+  gap: 12px;
+  padding: 5px;
+  background-color: bisque;
+  flex-wrap: wrap;
+}
