@@ -41,7 +41,10 @@ const Home = () => {
         console.log("error occured");
       }
     })();
+  }else {
+    alert("Enter username")
   }
+  console.log(username);
 
   const captureUsername = useDataSore((state) => state.captureUsername);
 
